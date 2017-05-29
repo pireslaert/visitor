@@ -96,7 +96,6 @@ class Visitor:
 class AreaVisitor(Visitor):
 
    def visit(self, shape):
-       #return print ("test" + shape.type)
        if shape.type == "Rectangle":
           return print ("\n" + str(shape.type) + " Area: " + str(round(shape.width * shape.height,2)) + "\n")
        elif shape.type == "Circle":
