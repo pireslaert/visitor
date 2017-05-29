@@ -2,7 +2,7 @@
 #
 # Author: Laert Pires
 # Version: 1.0
-# Date: 29/07/2017
+# Date: 29/05/2017
 #
 # Description: Randomly generates shapes and computes its area.
 #
